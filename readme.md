@@ -1,0 +1,1 @@
+Repo for mozilla django tutorial project at https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
